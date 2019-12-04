@@ -1,0 +1,6 @@
+Struktura zdarzeñ w algorytmie wykrywaj¹cym wszystkie przeciêcia w zadanym zbiorze,
+musi byæ uporz¹dkowa, tak aby punkty koñcowe odcinków by³y uporz¹dkowane 
+wed³ug wspó³rzêdnych X, pó¿niej zaœ Y.
+Oba algorytmy nie wymagaj¹ tej samej struktury, gdy¿ w przypadku szukania jednego przeciêcia
+mo¿na zaimplementowaæ algorytm iteruj¹cy siê po odcinkach, nastêpnie wzglêdem wybranego odcinka po pozosta³ych (odrzucaj¹c ju¿ sprawdzony wczeœniej). Zatem nie jest tu wymagana struktura uporz¹dkowana.
+Mój program przy ka¿dym zdarzeniu wykrywa punkty przeciêæ, zatem wykrywa ten sam punkt przeciêcia wielokrotnie
