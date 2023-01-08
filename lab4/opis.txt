@@ -1,2 +1,0 @@
-Wykonano rysowanie i zapis wielok¹tów
-Sprawdzanie monotonicznoœci w toku

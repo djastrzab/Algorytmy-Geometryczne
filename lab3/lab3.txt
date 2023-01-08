@@ -1,1 +1,0 @@
-Wykonano algorytm generowania odcinków i sprawdzania przeciêæ.
